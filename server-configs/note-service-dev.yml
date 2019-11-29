@@ -1,0 +1,3 @@
+spring:
+    profiles: dev
+    message: Welcome to Spring NoteService Development Server !

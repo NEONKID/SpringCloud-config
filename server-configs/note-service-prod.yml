@@ -1,0 +1,3 @@
+spring:
+    profiles: prod
+    message: Welcome to  Spring NoteService production Server !
